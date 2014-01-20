@@ -2,15 +2,23 @@
 
 ## Modulos de terceiros inclusos:
 
-#### RESTful - RESTFull Interface
-#### Mango - MongoDB Database Access
-#### MPDF - Conversor HTML para PDF
+##### * RESTful - RESTFull Interface
+##### * Mango - MongoDB Database Access
+##### * MPDF - Conversor HTML para PDF
 
 ## Drivers de Banco de Dados adicionados
 
-#### PostgreSQL
-#### Firebird
-#### MySQLi
+##### * PostgreSQL
+##### * Firebird
+##### * MySQLi
+
+## Exemplos
+
+##### * RESTful Webservice
+##### * Mango
+##### * ORM
+##### * MPDF
+
 
 [Kohana](http://kohanaframework.org/) is an elegant, open source, and object oriented HMVC framework built using PHP5, by a team of volunteers. It aims to be swift, secure, and small.
 
