@@ -105,7 +105,7 @@ if (isset($_SERVER['KOHANA_ENV']))
  * - boolean  expose      set the X-Powered-By header                        FALSE
  */
 Kohana::init(array(
-	'base_url'   => '/Mongo/',
+	'base_url'   => '/CustomKohana/',
 	'index_file' => false,
 ));
 
@@ -137,6 +137,7 @@ Kohana::modules(array(
 		'restful' 	 => MODPATH.'restful', 	  // RESTful interface
 		'mango' 	 => MODPATH.'mango', 	  // Mongo database access
 		'mpdf'		 => MODPATH.'mpdf',		  // MPDF module
+		'logviewer'  => MODPATH.'logviewer',  // User guide and API documentation
 	/*Modulos adicionados manualmente*/
 		
 	));

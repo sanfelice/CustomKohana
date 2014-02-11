@@ -5,6 +5,7 @@
 ##### * RESTful - RESTFull Interface
 ##### * Mango - MongoDB Database Access
 ##### * MPDF - Conversor HTML para PDF
+##### * LogViewer - Visualizador de logs do Kohana - http://baseurl/logs
 
 ## Drivers de Banco de Dados adicionados
 
